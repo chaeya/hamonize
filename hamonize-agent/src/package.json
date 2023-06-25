@@ -41,7 +41,7 @@
     "node-fetch": "^2.6.1",
     "node-schedule": "^2.0.0",
     "ping": "^0.4.1",
-    "pkg": "^5.2.1",
+    "pkg": "^5.8.1",
     "request": "^2.88.2",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.5"
